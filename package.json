@@ -1,0 +1,30 @@
+{
+  "name": "picture-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikrunner2005/optimizacia.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nikrunner2005/optimizacia/issues"
+  },
+  "homepage": "https://github.com/Nikrunner2005/optimizacia#readme"
+}
